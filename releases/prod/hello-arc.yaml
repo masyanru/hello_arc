@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Добро пожаловать в Azure Arc 2
+      value: Добро пожаловать в Azure Arc
